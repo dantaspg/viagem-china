@@ -1,0 +1,10 @@
+[project]
+name = "viagem-china-site"
+version = "0.1.0"
+description = "Export + build pipeline for the viagem-china travel site"
+requires-python = ">=3.12"
+dependencies = [
+    "mkdocs-material>=9.5",
+    "ghp-import>=2.1",
+    "pyyaml>=6.0",
+]
