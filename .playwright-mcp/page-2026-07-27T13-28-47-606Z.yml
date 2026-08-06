@@ -1,0 +1,13 @@
+- generic [ref=e4]:
+  - generic [ref=e5]:
+    - paragraph [ref=e6]: Viagem Taiwan–China
+    - paragraph [ref=e7]: Senha da viagem
+  - separator [ref=e8]
+  - generic [ref=e9]:
+    - generic [ref=e10]:
+      - textbox "Password" [active] [ref=e11]
+      - img "Show password" [ref=e12] [cursor=pointer]
+    - generic [ref=e13]:
+      - checkbox "Remember me" [ref=e14]
+      - text: Remember me
+    - button "DECRYPT" [ref=e15] [cursor=pointer]
